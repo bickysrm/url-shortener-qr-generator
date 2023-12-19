@@ -28,7 +28,7 @@ This web application aims to enhance convenience in sharing and accessing web li
 
 ## Demo
 
-https://url-shorthener.vercel.app/
+https://url-shortener-qr-generator.vercel.app/
 
 
 ## 🛠 Skills
